@@ -118,6 +118,16 @@ footer {
     color: #777;
 }
 
+.proyecto a {
+    color: #2c3e50;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.proyecto a:hover {
+    text-decoration: underline;
+}
+
 /* Ajustes para pantallas pequeñas (celulares) */
 @media (max-width: 600px) {
     nav {
